@@ -86,7 +86,7 @@ Text: <br/>
   
 <br />
 ISP: <br/> 
-<img src="https://i.imgur.com/XVicfVF.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
+<img src="" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
 Text
 <br />
