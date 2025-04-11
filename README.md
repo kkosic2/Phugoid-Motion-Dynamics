@@ -1,5 +1,10 @@
 <h1>Phugoid Motion Dynamics</h1>
 
+<p align="center">
+Phugoid Motion Visualized <br/>
+<img src="https://i.imgur.com/wWuUhkz.png" height="80%" width="80%" alt="Program Steps"/>
+<br />
+
 <h2>Description</h2>
 Phugoid oscillations are an interesting behavior incurred by aircraft when they encounter small disturbances in pitch
 angle or airspeed. When an aircraft perturbs one, or both, of these parameters it will begin to oscillate in the absence of
