@@ -17,6 +17,7 @@ interest. The parameters that define an aircraft in phugoid motion will be 𝑔,
 nomenclature. The initial conditions will be composed of initial speed 𝑉0, initial pitch angle 𝜃0, initial altitude ℎ0, and
 initial horizontal displacement 𝑥0. The following list describes how these parameters and initial conditions are varied to
 evaluate the questions posed above:
+
 • To evaluate how altitude effects phugoid motion, we will vary only the density and keep all other aircraft parameters
 the same. The system will be evaluated at densities equivalent to sea level, 5 km, and 10 km. All initial conditions
 will be kept the same to allow for a better comparison between results.
