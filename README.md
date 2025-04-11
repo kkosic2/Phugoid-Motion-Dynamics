@@ -12,6 +12,7 @@ pilot control. It is for this reason why understanding phugoid oscillations is i
 this system has direct implications for an aircraft’s longitudinal dynamic stability. In this project we will attempt to
 gather more information about the phugoid system through numerical analysis. Here are the questions we will answer:
 
+
 1) What effect does varying the cruise altitude have on the phugoid system? In other words, how does changing air
 density effect this aspect of aircraft stability
 2) How does the phugoid system behave for different types of aircraft? In other words, How do small, medium and
