@@ -6,10 +6,12 @@ angle or airspeed. When an aircraft perturbs one, or both, of these parameters i
 pilot control. It is for this reason why understanding phugoid oscillations is important, as determining the behavior of
 this system has direct implications for an aircraft’s longitudinal dynamic stability. In this project we will attempt to
 gather more information about the phugoid system through numerical analysis. Here are the questions we will answer:
+
 1) What effect does varying the cruise altitude have on the phugoid system? In other words, how does changing air
 density effect this aspect of aircraft stability
 2) How does the phugoid system behave for different types of aircraft? In other words, How do small, medium and
 large aircraft behave in phugoid motion.
+
 We will answer these questions by varying the parameters and initial conditions defining our system to fit the aircraft of
 interest. The parameters that define an aircraft in phugoid motion will be 𝑔, 𝑚, 𝜌, 𝐶𝐷 , 𝐶𝐿 , 𝑆, and 𝑇 as defined in the
 nomenclature. The initial conditions will be composed of initial speed 𝑉0, initial pitch angle 𝜃0, initial altitude ℎ0, and
