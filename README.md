@@ -51,7 +51,7 @@ consistency when comparing results.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/wWuUhkz.png" height="80%" width="80%" alt="Program Steps"/>
+<img src=" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
 Text:  <br/>
