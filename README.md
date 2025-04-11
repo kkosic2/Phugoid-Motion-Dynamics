@@ -53,15 +53,15 @@ Launch the utility: <br/>
 <img src="https://i.imgur.com/wWuUhkz.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-Select your spacecraft:  <br/>
+Text:  <br/>
 <img src="https://i.imgur.com/9liQxav.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-Choose your orbital destination: <br/>
+Text: <br/>
 <img src="https://i.imgur.com/nkc7D6l.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-Your maximum payload is calculated:  <br/>
+Text:  <br/>
 <img src="https://i.imgur.com/jRXyy5x.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
@@ -79,7 +79,7 @@ OR display engine specifications:  <br/>
 
 <h2>Tsiolkovsky Rocket Equation Explanation:</h2>
 <p align="center">
-The Rocket Equation: <br/>
+Text: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
   
@@ -87,22 +87,19 @@ The Rocket Equation: <br/>
 ISP: <br/> 
 <img src="https://i.imgur.com/XVicfVF.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
-"ISP" (specific impulse) is the efficiency of your rocket engine. <br />
-"g" is the gravitational constant. 
+Text
 <br />
   
 <br />
-Mass Ratio: <br/>
-<img src="https://i.imgur.com/70YFbvd.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
+Text: <br/>
+<img src="" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br/>
-"m0/m1" is the mass ratio (initial mass/final mass). <br />
-"ln" is to mathematically describe how the velocity of the rocket changes as it burns fuel (mass).
+Text
 <br />
 
 <br />
 Delta V <br/>
-<img src="https://i.imgur.com/5pQ81Fv.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
+<img src="" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
-"ΔV" is the change in velocity of the rocket. <br />
-Tells us how much maneuvering a spacecraft can do such as getting into orbit.
+Text
 </p>
