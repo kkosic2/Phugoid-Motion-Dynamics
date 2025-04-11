@@ -21,9 +21,11 @@ evaluate the questions posed above:
 • To evaluate how altitude effects phugoid motion, we will vary only the density and keep all other aircraft parameters
 the same. The system will be evaluated at densities equivalent to sea level, 5 km, and 10 km. All initial conditions
 will be kept the same to allow for a better comparison between results.
+
 • To evaluate how aircraft size effects phugoid motion, parameters that are particularly dependent on aircraft size
 are: mass and wing area, and they will be varied according to the aircraft chosen for analysis. The initial airspeed
 of each aircraft will also vary accordingly, with all other initial conditions remaining the same.
+
 • When testing how aircraft size effects phugoid motion, the thrust for each aircraft will be set to 0 to allow for more
 consistency when comparing results.
 
