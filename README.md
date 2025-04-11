@@ -65,19 +65,19 @@ Text:  <br/>
 <img src="https://i.imgur.com/jRXyy5x.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-OR enter your payload:  <br/>
+Text:  <br/>
 <img src="https://i.imgur.com/X0CPTpR.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-Possible orbital destinations are calculated:  <br/>
+Text:  <br/>
 <img src="https://i.imgur.com/kSYLddY.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-OR display engine specifications:  <br/>
+Text:  <br/>
 <img src="https://i.imgur.com/fOGrjUe.png" height="80%" width="80%" alt="Program Steps"/>
 </p>
 
-<h2>Tsiolkovsky Rocket Equation Explanation:</h2>
+<h2>Text:</h2>
 <p align="center">
 Text: <br/>
 <img src="https://i.imgur.com/ojSbSKy.png" height="50%" width="50%" alt="Rocket Equation Steps"/>
