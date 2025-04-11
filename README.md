@@ -85,7 +85,7 @@ Text: <br/>
 <br />
   
 <br />
-ISP: <br/> 
+Text: <br/> 
 <img src="" height="50%" width="50%" alt="Rocket Equation Steps"/>
 <br />
 Text
